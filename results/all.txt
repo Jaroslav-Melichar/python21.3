@@ -1,0 +1,8 @@
+User: haha
+Book: fff
+Book: title
+Book: title
+Book data: {'title': 'Title', 'author': 'Borovsk�'}
+Book data: {'title': 'Title', 'author': 'Borovsk�'}
+User data: {'username': 'haha', 'email': 'Jarabaltazar@seznam.cz'}
+User data: {'username': 'haha', 'email': 'Jarabaltazar@seznam.cz'}
